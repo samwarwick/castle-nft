@@ -1,7 +1,7 @@
 # castle-nft
-Experimental NFT collection
+Experimental NFT collection.
 
-Loosely based on the Ethereum tutorial [How to write & deploy and NFT](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/), with additional inspiration from https://github.com/schonken/blockchain-week-2022-nft-101.
+Loosely based on the Ethereum tutorial [How to write & deploy an NFT](https://ethereum.org/en/developers/tutorials/how-to-write-and-deploy-an-nft/), with additional inspiration from https://github.com/schonken/blockchain-week-2022-nft-101.
 
 
 ## Stack

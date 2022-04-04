@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Colour",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Door",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Blue Sun"
+    }
+  ],
+  "description": "Standard castle in the sun",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXNTjQySWs4N756J2aFYWjYPJ9cp4xjL34RqAH3ZJb2BS/castle-sun.png",
+  "name": "Castle Sun"
+}

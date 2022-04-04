@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Colour",
+      "value": "White"
+    },
+    {
+      "trait_type": "Door",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Blue"
+    }
+  ],
+  "description": "Standard castle in white",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXNTjQySWs4N756J2aFYWjYPJ9cp4xjL34RqAH3ZJb2BS/castle-white.png",
+  "name": "White Castle"
+}

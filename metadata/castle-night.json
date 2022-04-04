@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Colour",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Door",
+      "value": "Default"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Night"
+    }
+  ],
+  "description": "Standard castle at night",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXNTjQySWs4N756J2aFYWjYPJ9cp4xjL34RqAH3ZJb2BS/castle-night.png",
+  "name": "Castle Night"
+}

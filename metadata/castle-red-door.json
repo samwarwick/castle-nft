@@ -1,0 +1,19 @@
+{
+  "attributes": [
+    {
+      "trait_type": "Colour",
+      "value": "Grey"
+    },
+    {
+      "trait_type": "Door",
+      "value": "Red"
+    },
+    {
+      "trait_type": "Sky",
+      "value": "Blue"
+    }
+  ],
+  "description": "Standard castle with red door",
+  "image": "https://gateway.pinata.cloud/ipfs/QmXNTjQySWs4N756J2aFYWjYPJ9cp4xjL34RqAH3ZJb2BS/castle-red-door.png",
+  "name": "Castle Red Door"
+}

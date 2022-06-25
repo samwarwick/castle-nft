@@ -4,6 +4,7 @@
   "description": "Castles experimental NFT collection",
   "scripts": {
     "compile": "hardhat compile",
+    "deploy:mumbai": "hardhat --network mumbai run scripts/deploy.js",
     "deploy:rinkeby": "hardhat --network rinkeby run scripts/deploy.js",
     "deploy:ropsten": "hardhat --network ropsten run scripts/deploy.js"
   },

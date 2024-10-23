@@ -1,12 +1,11 @@
 {
   "name": "castle-nft",
-  "version": "1.0.0",
+  "version": "1.1.0",
   "description": "Castles experimental NFT collection",
   "scripts": {
     "compile": "hardhat compile",
-    "deploy:mumbai": "hardhat --network mumbai run scripts/deploy.js",
-    "deploy:rinkeby": "hardhat --network rinkeby run scripts/deploy.js",
-    "deploy:ropsten": "hardhat --network ropsten run scripts/deploy.js"
+    "deploy:amoy": "hardhat --network amoy run scripts/deploy.js",
+    "deploy:sepolia": "hardhat --network sepolia run scripts/deploy.js"
   },
   "repository": {
     "type": "git",

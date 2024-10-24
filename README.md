@@ -11,14 +11,16 @@ Loosely based on the Ethereum tutorial [How to write & deploy an NFT](https://et
 -   [Alchemy](https://www.alchemy.com/) (including alchemy-web3)
 -   [Ethers](https://github.com/ethers-io/ethers.js)
 -   [Hardhat](https://hardhat.org/)
+-   [Node](https://nodejs.org/en/blog/release/v18.20.4) 16
 -   [Pinata](https://app.pinata.cloud/)
+-   [Solidity](https://soliditylang.org/)
 
 ## Instructions
 
 1. Upload [images](images) to Pinata (or use your own).
 2. Edit the [metadata](metadata) json files and change the `image` urls to the address created in step 1.
 3. Create a `.env` file in the root of the project with entries for `ALCHEMY_AMOY_URL`, `ALCHEMY_SEPOLIA_URL` and `PRIVATE_KEY`.
-4. Compile contract:
+4. Compile [CastleNFT](contracts/CastleNFT.sol) contract:
    `npm run compile`
 5. Deploy contract:
    `npm run deploy:<network>`

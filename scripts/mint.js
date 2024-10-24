@@ -2,8 +2,8 @@ require('dotenv').config();
 
 const { ALCHEMY_AMOY_URL, ALCHEMY_SEPOLIA_URL, PUBLIC_KEY, PRIVATE_KEY } = process.env;
 
-const AMOY_CONTRACT = '0xEa864D1dC30398382E86ba836e8FbBfc6A48fa59';
-const SEPOLIA_CONTRACT = '0xEa864D1dC30398382E86ba836e8FbBfc6A48fa59';
+const AMOY_CONTRACT = '0xd6b1C9462d7dd02D23aDC31224962a7266cadeD8';
+const SEPOLIA_CONTRACT = '0x0ed3F64BDdD661d52236C8d2290eC3884A0a6bDc';
 
 const BASE_URI = 'https://gateway.pinata.cloud/ipfs/Qmdh88hxWq78idcGuKa5qLg3Dixpht86EFsHTTdrq7wAqo';
 const NFT_IDS = ['main', 'sun', 'night', 'red-door', 'white'];

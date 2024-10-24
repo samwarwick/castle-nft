@@ -7,8 +7,8 @@ const { createAlchemyWeb3 } = require('@alch/alchemy-web3');
 const web3 = createAlchemyWeb3(API_URL);
 const fetch = require('node-fetch');
 
-const AMOY_CONTRACT = '0xEa864D1dC30398382E86ba836e8FbBfc6A48fa59';
-const SEPOLIA_CONTRACT = '0xEa864D1dC30398382E86ba836e8FbBfc6A48fa59';
+const AMOY_CONTRACT = '0xd6b1C9462d7dd02D23aDC31224962a7266cadeD8';
+const SEPOLIA_CONTRACT = '0x0ed3F64BDdD661d52236C8d2290eC3884A0a6bDc';
 
 const contract = require('../artifacts/contracts/CastleNFT.sol/CastleNFT.json');
 //const contractAddress = AMOY_CONTRACT;

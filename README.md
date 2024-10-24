@@ -11,7 +11,7 @@ Loosely based on the Ethereum tutorial [How to write & deploy an NFT](https://et
 -   [Alchemy](https://www.alchemy.com/) (including alchemy-web3)
 -   [Ethers](https://github.com/ethers-io/ethers.js)
 -   [Hardhat](https://hardhat.org/)
--   [Node](https://nodejs.org/en/blog/release/v18.20.4) 16
+-   [Node](https://nodejs.org/en/blog/release/v16.15.1) 16
 -   [Pinata](https://app.pinata.cloud/)
 -   [Solidity](https://soliditylang.org/)
 
